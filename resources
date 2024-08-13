@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resources - Privacy and Data Protection in Software Development</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Privacy and Data Protection in Software Development</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="ethical-considerations.html">Ethical Considerations</a></li>
+            <li><a href="security-measures.html">Security Measures</a></li>
+            <li><a href="resources.html">Resources</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h2>Additional Resources</h2>
+        <h3>Regulations and Guidelines:</h3>
+        <ul>
+            <li><a href="https://gdpr.eu/">General Data Protection Regulation (GDPR)</a></li>
+            <li><a href="https://oag.ca.gov/privacy/ccpa">California Consumer Privacy Act (CCPA)</a></li>
+            <li><a href="https://www.hhs.gov/hipaa/index.html">Health Insurance Portability and Accountability Act (HIPAA)</a></li>
+        </ul>
+        <h3>Organizations and Projects:</h3>
+        <ul>
+            <li><a href="https://owasp.org/www-project-top-ten/">OWASP Top Ten Project</a></li>
+            <li><a href="https://www.iapp.org/">International Association of Privacy Professionals (IAPP)</a></li>
+            <li><a href="https://www.privacyinternational.org/">Privacy International</a></li>
+        </ul>
+        <h3>Books:</h3>
+        <ul>
+            <li>"Privacy by Design: The Definitive Guide" by Ann Cavoukian</li>
+            <li>"Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World" by Bruce Schneier</li>
+            <li>"The Ethics of Cybersecurity" edited by Markus Christen, Bert Gordijn, and Michele Loi</li>
+        </ul>
+        <h3>Online Courses:</h3>
+        <ul>
+            <li><a href="https://www.coursera.org/learn/crypto">Cryptography I</a> - Stanford University on Coursera</li>
+            <li><a href="https://www.edx.org/course/cybersecurity-fundamentals">Cybersecurity Fundamentals</a> - RITx on edX</li>
+        </ul>
+        <p>These resources provide a wealth of information on privacy and data protection in software development. We encourage you to explore them to deepen your understanding of this critical field.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 Privacy and Data Protection in Software Development</p>
+    </footer>
+</body>
+</html>
