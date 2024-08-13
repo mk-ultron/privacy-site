@@ -8,7 +8,7 @@ This repository contains the source code for a website dedicated to exploring pr
 
 This website was created with the assistance of AI tools, specifically:
 
-1. **Content Generation**: The initial content for each page was generated using OpenAI's GPT model (Claude). This includes the text for the Home, About, Ethical Considerations, and Security Measures pages.
+1. **Content Generation**: The initial content for each page was generated using Anthropic's GPT model (Claude Sonnet 3.5). This includes the text for the Home, About, Ethical Considerations, and Security Measures pages.
 
 2. **Structure and Layout**: The basic HTML structure and CSS styling were suggested by the AI, based on best practices for responsive web design.
 
@@ -16,7 +16,7 @@ This website was created with the assistance of AI tools, specifically:
 
 4. **README Creation**: This README file was initially drafted by the AI based on provided guidelines, then reviewed and edited for accuracy.
 
-All AI-generated content was reviewed and edited by a human to ensure accuracy, relevance, and coherence with the overall project goals.
+All AI-generated content was reviewed and edited to ensure accuracy, relevance, and coherence with the overall project goals.
 
 ## Introduction
 
