@@ -50,12 +50,4 @@ Future areas for research and development include:
 - Ethical frameworks for AI and big data applications
 - User-centric design patterns for privacy controls
 
-We encourage visitors to explore the resources provided and to stay informed about the latest developments in this critical field.
-
-## Contributing
-
-We welcome contributions to improve the content and structure of this website. Please feel free to submit issues or pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+Visitors are encouraged to explore the resources provided and to stay informed about the latest developments in this critical field.
