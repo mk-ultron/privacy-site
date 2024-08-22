@@ -21,8 +21,19 @@
     </nav>
     <main>
         <h2>Ethical Considerations</h2>
-        <img src="https://images.unsplash.com/photo-1488229297570-58520851e868?q=80&w=1738&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Ethical Considerations">
-        <p class="image-credit">Image by <a href="https://unsplash.com/photos/worms-eye-view-photography-of-ceiling-LqKhnDzSF-8">Shridhar Gupta on Unsplash</a></p>
+        <p>Can you guess which image is AI-generated? Take a moment to study both images, then click the button below to reveal the sources.</p>
+        <div class="image-container">
+            <div class="image-wrapper">
+                <img src="https://images.unsplash.com/photo-1488229297570-58520851e868?q=80&w=1738&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Ethical Considerations">
+                <p class="image-credit hidden">Image by <a href="https://unsplash.com/photos/worms-eye-view-photography-of-ceiling-LqKhnDzSF-8">Shridhar Gupta on Unsplash</a></p>
+            </div>
+            <div class="image-wrapper">
+                <img src="ethical.png" alt="AI-generated image for Ethical Considerations page">
+                <p class="image-credit hidden">AI-generated image</p>
+            </div>
+        </div>
+        <button class="reveal-credits">Reveal Image Sources</button>
+        
         <p>The ethical implications of data collection and usage are complex and far-reaching. Developers must grapple with questions of consent, transparency, and the potential for misuse of personal information.</p>
         <h3>Key Ethical Issues:</h3>
         <ul>
@@ -39,5 +50,6 @@
     <footer>
         <p>&copy; 2024 Privacy and Data Protection in Software Development</p>
     </footer>
+    <script src="script.js"></script>
 </body>
 </html>
